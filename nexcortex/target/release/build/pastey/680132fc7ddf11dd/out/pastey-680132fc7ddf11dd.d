@@ -1,0 +1,9 @@
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\pastey/680132fc7ddf11dd\out\pastey-680132fc7ddf11dd.d: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\attr.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\error.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\segment.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\../README.md
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\pastey/680132fc7ddf11dd\out\pastey-680132fc7ddf11dd.dll: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\attr.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\error.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\segment.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\../README.md
+
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\lib.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\attr.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\error.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\segment.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pastey-0.2.3\src\../README.md:

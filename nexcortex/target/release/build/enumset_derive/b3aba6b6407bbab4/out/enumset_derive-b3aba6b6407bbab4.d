@@ -1,0 +1,8 @@
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\enumset_derive/b3aba6b6407bbab4\out\enumset_derive-b3aba6b6407bbab4.d: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\const_eval.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\gen.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\plan.rs
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\enumset_derive/b3aba6b6407bbab4\out\enumset_derive-b3aba6b6407bbab4.dll: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\const_eval.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\gen.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\plan.rs
+
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\lib.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\const_eval.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\gen.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\enumset_derive-0.15.1\src\plan.rs:

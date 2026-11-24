@@ -1,0 +1,10 @@
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\safetensors/bcf8dd920887149b\out\safetensors-bcf8dd920887149b.d: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\slice.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\tensor.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\../README.md
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\safetensors/bcf8dd920887149b\out\libsafetensors-bcf8dd920887149b.rlib: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\slice.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\tensor.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\../README.md
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\safetensors/bcf8dd920887149b\out\libsafetensors-bcf8dd920887149b.rmeta: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\slice.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\tensor.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\../README.md
+
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\lib.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\slice.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\tensor.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\safetensors-0.8.0\src\../README.md:

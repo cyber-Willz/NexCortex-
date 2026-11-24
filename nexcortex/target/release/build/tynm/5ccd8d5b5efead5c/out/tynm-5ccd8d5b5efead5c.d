@@ -1,0 +1,10 @@
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\tynm/5ccd8d5b5efead5c\out\tynm-5ccd8d5b5efead5c.d: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\parser.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\type_params_fmt_opts.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\types.rs
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\tynm/5ccd8d5b5efead5c\out\libtynm-5ccd8d5b5efead5c.rlib: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\parser.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\type_params_fmt_opts.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\types.rs
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\tynm/5ccd8d5b5efead5c\out\libtynm-5ccd8d5b5efead5c.rmeta: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\parser.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\type_params_fmt_opts.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\types.rs
+
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\lib.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\parser.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\type_params_fmt_opts.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tynm-0.2.0\src\types.rs:

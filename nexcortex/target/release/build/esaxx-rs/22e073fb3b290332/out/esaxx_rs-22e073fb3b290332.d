@@ -1,0 +1,10 @@
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\esaxx-rs/22e073fb3b290332\out\esaxx_rs-22e073fb3b290332.d: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\esa.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\sais.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\types.rs
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\esaxx-rs/22e073fb3b290332\out\libesaxx_rs-22e073fb3b290332.rlib: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\esa.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\sais.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\types.rs
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\esaxx-rs/22e073fb3b290332\out\libesaxx_rs-22e073fb3b290332.rmeta: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\esa.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\sais.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\types.rs
+
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\lib.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\esa.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\sais.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\esaxx-rs-0.1.10\src\types.rs:

@@ -1,0 +1,10 @@
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\castaway/8d6f24e0ad82816a\out\castaway-8d6f24e0ad82816a.d: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\internal.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\lifetime_free.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\utils.rs
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\castaway/8d6f24e0ad82816a\out\libcastaway-8d6f24e0ad82816a.rlib: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\internal.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\lifetime_free.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\utils.rs
+
+C:\Users\AdminDrafter\Downloads\nexcortex\nexcortex\target\release\build\castaway/8d6f24e0ad82816a\out\libcastaway-8d6f24e0ad82816a.rmeta: C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\lib.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\internal.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\lifetime_free.rs C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\utils.rs
+
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\lib.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\internal.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\lifetime_free.rs:
+C:\Users\AdminDrafter\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\castaway-0.2.4\src\utils.rs:
